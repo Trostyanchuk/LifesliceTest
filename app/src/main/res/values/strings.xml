@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifesliceTest</string>
+
+    <string name="unexpected_error">Unexpected error while proceeding your request. Please, try again later</string>
+
+    <string name="network_error">No connection. Please, check your network settings and try again.</string>
+
+    <string name="tag_empty_error">Tag should not be empty</string>
+</resources>
